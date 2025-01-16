@@ -42,7 +42,7 @@ MyNotes App is a digital notebook designed for seamless note management. Users c
 - **Edit & Delete Note Screen**  
   ![Edit/Delete Note Screen](images/edit-delete-screen.png)
 - **Logout Button**
- ![Logout Screen](images/logout.png)
+  ![Logout Screen](images/logout.png)
 ---
 
 ## **Database Design**
