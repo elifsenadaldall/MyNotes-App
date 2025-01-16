@@ -62,5 +62,5 @@ MyNotes App is a digital notebook designed for seamless note management. Users c
 ## **References**
 - [Firebase Documentation](https://firebase.google.com/docs/android/setup?hl=tr)
 - [Android RecyclerView](https://developer.android.com/develop/ui/views/layout/recyclerview?hl=tr)
-- [ChatGPT](https://chat.openai.com/)
+
 
